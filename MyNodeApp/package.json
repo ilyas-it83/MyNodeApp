@@ -1,0 +1,17 @@
+{
+  "name": "my-node-app",
+  "version": "0.0.0",
+  "description": "MyNodeApp",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "mocha": "^3.2.0",
+    "should": "^11.1.2",
+    "stylus": "*",
+    "supertest": "^2.0.1"
+  }
+}
