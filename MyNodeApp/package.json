@@ -4,7 +4,7 @@
   "description": "MyNodeApp",
   "main": "app.js",
   "author": {
-    "name": "User"
+    "name": "Ilyas"
   },
   "dependencies": {
     "express": "3.4.4",

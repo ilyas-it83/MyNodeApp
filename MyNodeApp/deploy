@@ -1,0 +1,8 @@
+﻿-#!/bin/sh
+ssh ilyas@40.71.46.93 << EOF
+cd /MyNodeApp/MyNodeApp
+git pull       
+npm install --production       
+pm2 restart all
+exit
+EOF

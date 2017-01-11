@@ -1,1 +1,1 @@
-﻿/// <autosync enabled="true" />/// <reference path="../../app.js" />
+﻿/// <autosync enabled="true" />/// <reference path="../../app.js" />/// <reference path="../../deploy.js" />
